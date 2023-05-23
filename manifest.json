@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "PM Parrot",
-    "version": "0.0.0.2",
-    "description": "Tomek powiedz coś po PMowemu 🦜",
+    "version": "0.0.0.3",
+    "description": "Powiedz coś po PMowemu 🦜",
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
